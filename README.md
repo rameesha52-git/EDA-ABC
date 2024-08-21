@@ -20,6 +20,11 @@ Overall, while there are some slight variations, the relatively uniform distribu
 Insight:
 The chart specifically highlights that the SG (Shooting Guard) position has exactly 100 employees, meeting the specified range. This indicates a significant presence of shooting guards in the organization.
 #### 3. Identify the predominant age group among employees.
+The most Common age group is in between 25-36
+#### 4. Discover which team and position have the highest salary expenditure.
+Insight:
+Team 'Los Angeles Lakers', 'SF'hae the salary 
+31866445.0
+#### 5. Investigate if there's any correlation between age and salary, and represent it visually.
+Insight: Shows weak Positive Correlation (0.21) As age increases, salary tends to increase slightly. However, since the correlation is weak (close to 0), this relationship is not strong.
 
-4. Discover which team and position have the highest salary expenditure.
-5. Investigate if there's any correlation between age and salary, and represent it visually.
